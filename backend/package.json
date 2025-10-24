@@ -1,5 +1,5 @@
 {
-  "name": ".",
+  "name": "backend",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
